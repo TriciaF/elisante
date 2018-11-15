@@ -1,0 +1,30 @@
+{
+    "name": "elisante",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TriciaF/elisante.git"
+    },
+    "keywords": [
+        "none"
+    ],
+    "author": "Tricia Forrester",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/TriciaF/elisante/issues"
+    },
+    "homepage": "https://github.com/TriciaF/elisante#readme",
+    "dependencies": {
+        "react": "^16.3.1",
+        "react-dom": "^16.3.1",
+        "react-router-dom": "^4.2.2",
+        "react-scripts": "1.1.4"
+    }
+}
