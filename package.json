@@ -1,0 +1,19 @@
+{
+  "name": "elisante",
+  "version": "1.0.0",
+  "description": "Website for Elisante Tours",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test --env=jsdom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TriciaF/elisante.git"
+  },
+  "author": "Tricia Forrester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TriciaF/elisante/issues"
+  },
+  "homepage": "https://github.com/TriciaF/elisante#readme"
+}
